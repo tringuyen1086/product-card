@@ -6,7 +6,7 @@ A professional product card with animation built with html and css to display an
 
 ### Project Visual
 
-[product-card-demo](https://user-images.githubusercontent.com/71200950/182288227-4ab67fc7-59c7-4737-abe1-2c0a5e38a56e.mp4)
+[product-card-demo](https://user-images.githubusercontent.com/71200950/182358778-28bc5e46-a64b-4176-a379-5e7f433ba416.mp4)
 
 ## Live Application
 [Product Card](https://tringuyen1086.github.io/product-card/)
